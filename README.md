@@ -22,7 +22,7 @@ You can find my daily logs and notes inside the [`logs/`](./logs) folder. Every 
 
 ## 📚 Topics I’ll Be Covering
 
-🛠️ _Will update soon..._
+🛠️ _Will update soon when things are finalized..._
 
 ---
 
