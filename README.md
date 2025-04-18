@@ -16,23 +16,33 @@ You can find my daily logs and notes inside the [`logs/`](./logs) folder. Every 
 - What I learned
 - Resources I used
 - Projects I worked on
-- Reflections & takeaways
 
 ---
 
 ## 📚 Topics I’ll Be Covering
 
-🛠️ _Will update soon when things are finalized..._
+1. **📚 PILLAR 0: Mathematics for AI Foundations**  
+2. **🧠 PILLAR 1: Classical Machine Learning (ML)**  
+3. **🧠 PILLAR 2: Deep Learning (DL)**  
+4. **⚙️ PILLAR 3: MLOps (Production + Engineering)**  
+5. **🤖 PILLAR 4: Generative AI (GenAI) & Large Language Models (LLMs)**  
+6. **🧠 PILLAR 5: Core Artificial Intelligence (Symbolic/Planning/Reasoning)**  
+7. **🌐 PILLAR 6: Cross-Cutting Skills (Tools, Infrastructure, Research)**
 
 ---
 
 ## 🛠 Repo Structure
 
-- `logs/` — Daily learning logs
-- `projects/` — ML/AI projects I build
-- `resources/` — Useful articles, courses, videos
-- `progress-tracker.md` — Checklist of skills & progress
-- `README.md` — You're here!
+- **`logs/`** — Daily learning logs
+- **`projects/`** — ML/AI projects I build
+- **`resources/`** — Useful articles, courses, videos
+- **`topic files/`** — Files related to specific learning topics
+- **`research-papers/`** — Research papers and notes
+- **`notes/`** — Miscellaneous notes and ideas
+- **`docs/`** — Documentation on frameworks or tools
+- **`progress-tracker.md`** — Checklist of skills & progress
+- **`.gitignore`** — Git ignore file
+- **`README.md`** — You're here!
 
 ---
 
